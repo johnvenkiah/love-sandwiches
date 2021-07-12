@@ -87,5 +87,5 @@ def main():
     calculate_surplus_data(sales_data)
 
 
-print('welcome to Love Sandwiches Data Automation')
+print('welcome to Love Sandwiches Data Automation\n')
 main()
