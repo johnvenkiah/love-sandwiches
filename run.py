@@ -48,4 +48,5 @@ def validate_data(values):
 
     return True
 
+
 get_sales_data()
